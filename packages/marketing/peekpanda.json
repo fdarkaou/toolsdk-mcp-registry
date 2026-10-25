@@ -7,7 +7,6 @@
   "readme": "https://github.com/fdarkaou/peekpanda-mcp#readme",
   "author": "PeekPanda",
   "runtime": "node",
-  "license": "MIT",
   "env": {},
   "remotes": [
     {
